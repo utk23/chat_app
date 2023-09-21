@@ -26,7 +26,7 @@ MONGO_URI=your_mongo_uri
 
 > npm start
 
-## Tasks completed
+## Features completed
 
 - Multiple agents can log in and repond to a single complaint.
 - Authentication added in order to segregate the agents and customers(wasn't possible otherwise).
@@ -43,4 +43,3 @@ MONGO_URI=your_mongo_uri
 - Notifications for new messages.
 - Responsive UI.
 
-Screenshots [here](/assets).
